@@ -1,5 +1,3 @@
-Certainly! Here's a simple README.md file based on the provided code:
-
 # Tic Tac Toe Android App
 
 ## Introduction
@@ -39,6 +37,9 @@ To get started with the Tic Tac Toe app, follow these steps:
 5. Press the "Restart" button to start a new game.
 
 ## Screenshots
-<img src="ScreenSort/WelcomePage.png" alt="Description of the image" width="200" height="400" />
-<img src="ScreenSort/WelcomePageWithName.png" alt="Description of the image" width="200" height="400" />
-<img src="ScreenSort/MainPage.png" alt="Description of the image" width="200" height="400" />
+## Screenshots
+<div style="display: flex; gap: 10px;">
+  <img src="ScreenSort/WelcomePage.png" alt="Description of the image" width="200" height="400" />
+  <img src="ScreenSort/WelcomePageWithName.png" alt="Description of the image" width="200" height="400" />
+  <img src="ScreenSort/MainPage.png" alt="Description of the image" width="200" height="400" />
+</div>
