@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".WelcomeActivity">
+
+    <EditText
+        android:id="@+id/player_1"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:background="@drawable/btn_back"
+        android:drawableStart="@drawable/player"
+        android:ems="10"
+        android:hint="@string/enter_player_1_name"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        tools:ignore="HardcodedText"
+        android:autofillHints=""
+        android:inputType="textShortMessage"
+        android:importantForAutofill="no" />
+
+    <EditText
+        android:id="@+id/player_2"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/btn_back"
+        android:drawableStart="@drawable/player"
+        android:ems="10"
+        android:hint="@string/enter_player_2_name"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:inputType="textShortMessage"
+        android:importantForAutofill="no" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/btn_back"
+        android:text="@string/start"
+        android:textSize="20sp" />
+</LinearLayout>

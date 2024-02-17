@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tik_Tok_Toe</string>
+    <string name="for_X">X</string>
+    <string name="for_O">O</string>
+    <string name="pl_1">Player-1</string>
+    <string name="pl_2">Player-2</string>
+    <string name="restart">Restart</string>
+    <string name="enter_player_2_name">Enter Player-2 Name</string>
+    <string name="enter_player_1_name">Enter Player-1 Name</string>
+    <string name="start">start</string>
+</resources>

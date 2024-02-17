@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cyan">#04F9F2</color>
+    <color name="blue_grotto">#0091E7</color>
+    <color name="blue">#0000FF</color>
+    <color name="royal_blue">#005BEA</color>
+    <color name="btn_backColor">#94C3E1</color>
+    <color name="playing">#6CF197</color>
+    <color name="stop">#F46064</color>
+</resources>
