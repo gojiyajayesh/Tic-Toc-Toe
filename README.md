@@ -37,7 +37,6 @@ To get started with the Tic Tac Toe app, follow these steps:
 5. Press the "Restart" button to start a new game.
 
 ## Screenshots
-## Screenshots
 <div style="display: flex; gap: 10px;">
   <img src="ScreenSort/WelcomePage.png" alt="Description of the image" width="200" height="400" />
   <img src="ScreenSort/WelcomePageWithName.png" alt="Description of the image" width="200" height="400" />
